@@ -9,4 +9,3 @@
 
 ![img](https://profile-counter.glitch.me/hkaa0/count.svg?alt=hkaa0)
 
-![img]( https://visitor-badge.glitch.me/badge?page_id=hkaa0) 
