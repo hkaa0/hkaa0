@@ -1,5 +1,5 @@
-# 五叶节点共享
-**https://t.me./hkaa0**
+# 五叶节点共享·资源永久发布页
+**https://wy.hkaa0.top**
 
 ---
 
@@ -7,3 +7,6 @@
 
 ![img](https://profile-counter.glitch.me/hkaa0/count.svg?alt=hkaa0)
 
+---
+## TG频道
+**https://t.me./hkaa0**
